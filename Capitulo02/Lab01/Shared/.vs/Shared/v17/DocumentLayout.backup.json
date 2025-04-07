@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Net\\Unidad01\\Capitulo02\\Lab01\\Shared\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95B25A61-3148-4FEF-ABDD-0A72C9BD992A}|..\\Consola\\Consola.csproj|c:\\net\\unidad01\\capitulo02\\lab01\\consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B25A61-3148-4FEF-ABDD-0A72C9BD992A}|..\\Consola\\Consola.csproj|c:\\net\\unidad01\\capitulo02\\lab01\\consola\\consola.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DA3363-9521-4751-B378-F378775D4A0D}|..\\Windows\\Windows.csproj|c:\\net\\unidad01\\capitulo02\\lab01\\windows\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0769CA7D-96D2-461A-9E28-3D48E2D8E208}|Shared.csproj|c:\\net\\unidad01\\capitulo02\\lab01\\shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0769CA7D-96D2-461A-9E28-3D48E2D8E208}|Shared.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Consola",
+              "DocumentMoniker": "C:\\Net\\Unidad01\\Capitulo02\\Lab01\\Consola\\Consola.csproj",
+              "RelativeDocumentMoniker": "..\\Consola\\Consola.csproj",
+              "ToolTip": "C:\\Net\\Unidad01\\Capitulo02\\Lab01\\Consola\\Consola.csproj",
+              "RelativeToolTip": "..\\Consola\\Consola.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-31T19:53:54.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Net\\Unidad01\\Capitulo02\\Lab01\\Consola\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Consola\\Program.cs",
+              "ToolTip": "C:\\Net\\Unidad01\\Capitulo02\\Lab01\\Consola\\Program.cs",
+              "RelativeToolTip": "..\\Consola\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:52:14.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Net\\Unidad01\\Capitulo02\\Lab01\\Windows\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Windows\\Form1.cs",
+              "ToolTip": "C:\\Net\\Unidad01\\Capitulo02\\Lab01\\Windows\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Windows\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:51:49.117Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Net\\Unidad01\\Capitulo02\\Lab01\\Shared\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Net\\Unidad01\\Capitulo02\\Lab01\\Shared\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:51:12.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
