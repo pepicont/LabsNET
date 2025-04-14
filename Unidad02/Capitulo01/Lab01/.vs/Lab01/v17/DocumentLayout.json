@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo01\\Lab01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{419B71F7-4CAA-41E6-820F-F8C126E1FB3C}|Lab01.csproj|d:\\documentos\\facultad\\3ero\\materias\\.net\\labsnet\\unidad02\\capitulo01\\lab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{419B71F7-4CAA-41E6-820F-F8C126E1FB3C}|Lab01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9BB3640-DBAF-49C0-B89A-2CEFE7E2638F}|..\\Iteracion\\Iteracion.csproj|d:\\documentos\\facultad\\3ero\\materias\\.net\\labsnet\\unidad02\\capitulo01\\iteracion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +19,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo01\\Lab01\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo01\\Lab01\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo01\\Iteracion\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Iteracion\\Program.cs",
+              "ToolTip": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo01\\Iteracion\\Program.cs",
+              "RelativeToolTip": "..\\Iteracion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T18:43:58.607Z",
+              "WhenOpened": "2025-04-14T21:14:44.539Z",
               "EditorCaption": ""
             }
           ]
