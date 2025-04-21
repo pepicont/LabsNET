@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad02\\Capitulo01\\Lab01.ParaPensar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00AB3197-76CB-464E-97B0-DBC7CB777834}|app2\\app2.csproj|c:\\users\\user\\desktop\\labsnet\\unidad02\\capitulo01\\lab01.parapensar\\app2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00AB3197-76CB-464E-97B0-DBC7CB777834}|app2\\app2.csproj|solutionrelative:app2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C96B69A0-7B7E-4E5F-B84A-18812508AF23}|app1\\app1.csproj|c:\\users\\user\\desktop\\labsnet\\unidad02\\capitulo01\\lab01.parapensar\\app1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C96B69A0-7B7E-4E5F-B84A-18812508AF23}|app1\\app1.csproj|solutionrelative:app1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6ED023FA-F683-4D2E-82E1-BEC627F74548}|app3\\app3.csproj|c:\\users\\user\\desktop\\labsnet\\unidad02\\capitulo01\\lab01.parapensar\\app3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED023FA-F683-4D2E-82E1-BEC627F74548}|app3\\app3.csproj|solutionrelative:app3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad02\\Capitulo01\\Lab01.ParaPensar\\app2\\Program.cs",
-              "RelativeDocumentMoniker": "app2\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad02\\Capitulo01\\Lab01.ParaPensar\\app2\\Program.cs",
-              "RelativeToolTip": "app2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad02\\Capitulo01\\Lab01.ParaPensar\\app3\\Program.cs",
+              "RelativeDocumentMoniker": "app3\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad02\\Capitulo01\\Lab01.ParaPensar\\app3\\Program.cs",
+              "RelativeToolTip": "app3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T20:22:55.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad02\\Capitulo01\\Lab01.ParaPensar\\app1\\Program.cs",
-              "RelativeDocumentMoniker": "app1\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad02\\Capitulo01\\Lab01.ParaPensar\\app1\\Program.cs",
-              "RelativeToolTip": "app1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T20:21:43.315Z",
+              "WhenOpened": "2025-04-21T15:30:39.797Z",
               "EditorCaption": ""
             }
           ]
