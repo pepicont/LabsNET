@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 string[] arrayString; 
 arrayString = new string[5];
+//o en su defecto, string[] arrayString = new string[5];
 int cantIteraciones = 5;
 for (int i = 0; i < cantIteraciones; i++)
 {
