@@ -34,24 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cuadrado.cs",
-              "DocumentMoniker": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo02\\Geometria\\Cuadrado.cs",
-              "RelativeDocumentMoniker": "Cuadrado.cs",
-              "ToolTip": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo02\\Geometria\\Cuadrado.cs",
-              "RelativeToolTip": "Cuadrado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T20:57:15.282Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -102,6 +89,19 @@
               "RelativeToolTip": "DiagramaClases.cd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
               "WhenOpened": "2025-04-22T19:45:53.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cuadrado.cs",
+              "DocumentMoniker": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo02\\Geometria\\Cuadrado.cs",
+              "RelativeDocumentMoniker": "Cuadrado.cs",
+              "ToolTip": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo02\\Geometria\\Cuadrado.cs",
+              "RelativeToolTip": "Cuadrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:57:15.282Z",
               "EditorCaption": ""
             },
             {
