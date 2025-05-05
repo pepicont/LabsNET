@@ -33,7 +33,7 @@
         {
             Console.WriteLine("\nJuego iniciado\nIngrese un máximo número a adivinar: ");
             int nroMaximo = int.Parse(Console.ReadLine());
-            Jugada jugada = new Jugada(nroMaximo);
+            JugadaConAyuda jugada = new JugadaConAyuda(nroMaximo);
             Console.WriteLine("Arranco el juego! Empezá a adivinar el número o 404 para salir");
             int nro = 400; //valor lejos para poder inicializar el bucle
             jugada.Intentos = 0; //inicializamos la jugada
@@ -42,6 +42,7 @@
                 nro = int.Parse(Console.ReadLine());
                 jugada.Intentos++;
                 Console.WriteLine($"\nNo es ese número, intenta de nuevo. Van {jugada.Intentos} intentos");
+                jugada.Comparar(nro);
             }
             if (nro == jugada.Numero) {
                 Console.WriteLine($"Felicitaciones! Adivinaste el número {jugada.Numero} en {jugada.Intentos} intentos");
