@@ -16,7 +16,7 @@ static async Task<string> LeerArchivoAsync(string ruta) //método que pide. devu
 }
 
 //MAIN
-string rutaArchivo = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "datos.txt"); //probe de hacerlo andar con esto pero tampoco anduvo
+string rutaArchivo = "datos.txt"; 
 ;
 string contenido = "Este es el contenido escrito de forma asíncrona.";
 
