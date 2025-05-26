@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6DF997-0F33-4691-B7E8-657D6F934025}|Lab6Asincronia\\Lab6Asincronia.csproj|d:\\documentos\\facultad\\3ero\\materias\\.net\\labsnet\\unidad02\\capitulo04\\lab6asincronia\\datos.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4F6DF997-0F33-4691-B7E8-657D6F934025}|Lab6Asincronia\\Lab6Asincronia.csproj|solutionrelative:lab6asincronia\\datos.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6DF997-0F33-4691-B7E8-657D6F934025}|Lab6Asincronia\\Lab6Asincronia.csproj|d:\\documentos\\facultad\\3ero\\materias\\.net\\labsnet\\unidad02\\capitulo04\\lab6asincronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6DF997-0F33-4691-B7E8-657D6F934025}|Lab6Asincronia\\Lab6Asincronia.csproj|solutionrelative:lab6asincronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BF20E1-37BE-4B55-87DA-723F182E92E2}|LabAsincronia1\\LabAsincronia1.csproj|d:\\documentos\\facultad\\3ero\\materias\\.net\\labsnet\\unidad02\\capitulo04\\labasincronia1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BF20E1-37BE-4B55-87DA-723F182E92E2}|LabAsincronia1\\LabAsincronia1.csproj|solutionrelative:labasincronia1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2BB6A1-36A8-4FCC-A233-2BD5709B4F33}|Lab5Asincronia\\Lab5Asincronia.csproj|d:\\documentos\\facultad\\3ero\\materias\\.net\\labsnet\\unidad02\\capitulo04\\lab5asincronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2BB6A1-36A8-4FCC-A233-2BD5709B4F33}|Lab5Asincronia\\Lab5Asincronia.csproj|solutionrelative:lab5asincronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F38C351-921D-4096-8BBC-E71A70526C27}|Lab4Asincronia\\Lab4Asincronia.csproj|d:\\documentos\\facultad\\3ero\\materias\\.net\\labsnet\\unidad02\\capitulo04\\lab4asincronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F38C351-921D-4096-8BBC-E71A70526C27}|Lab4Asincronia\\Lab4Asincronia.csproj|solutionrelative:lab4asincronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E804F41-330B-4AC6-90F8-79E02AD6C6B2}|Lab2Asincronia\\Lab2Asincronia.csproj|d:\\documentos\\facultad\\3ero\\materias\\.net\\labsnet\\unidad02\\capitulo04\\lab2asincronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E804F41-330B-4AC6-90F8-79E02AD6C6B2}|Lab2Asincronia\\Lab2Asincronia.csproj|solutionrelative:lab2asincronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034572B3-A646-489F-A159-5B7A6F020D1B}|Lab3Asincronia\\Lab3Asincronia.csproj|d:\\documentos\\facultad\\3ero\\materias\\.net\\labsnet\\unidad02\\capitulo04\\lab3asincronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034572B3-A646-489F-A159-5B7A6F020D1B}|Lab3Asincronia\\Lab3Asincronia.csproj|solutionrelative:lab3asincronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "datos.txt",
+              "DocumentMoniker": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo04\\Lab6Asincronia\\datos.txt",
+              "RelativeDocumentMoniker": "Lab6Asincronia\\datos.txt",
+              "ToolTip": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo04\\Lab6Asincronia\\datos.txt",
+              "RelativeToolTip": "Lab6Asincronia\\datos.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-26T18:12:52.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo04\\Lab6Asincronia\\Program.cs",
+              "RelativeDocumentMoniker": "Lab6Asincronia\\Program.cs",
+              "ToolTip": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo04\\Lab6Asincronia\\Program.cs",
+              "RelativeToolTip": "Lab6Asincronia\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBIAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T17:47:39.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo04\\Lab5Asincronia\\Program.cs",
+              "RelativeDocumentMoniker": "Lab5Asincronia\\Program.cs",
+              "ToolTip": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo04\\Lab5Asincronia\\Program.cs",
+              "RelativeToolTip": "Lab5Asincronia\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T16:48:26.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo04\\Lab4Asincronia\\Program.cs",
+              "RelativeDocumentMoniker": "Lab4Asincronia\\Program.cs",
+              "ToolTip": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo04\\Lab4Asincronia\\Program.cs",
+              "RelativeToolTip": "Lab4Asincronia\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T16:21:50.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo04\\Lab3Asincronia\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3Asincronia\\Program.cs",
+              "ToolTip": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo04\\Lab3Asincronia\\Program.cs",
+              "RelativeToolTip": "Lab3Asincronia\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:56:49.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo04\\Lab2Asincronia\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2Asincronia\\Program.cs",
+              "ToolTip": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo04\\Lab2Asincronia\\Program.cs",
+              "RelativeToolTip": "Lab2Asincronia\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwDcAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:19:04.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo04\\LabAsincronia1\\Program.cs",
+              "RelativeDocumentMoniker": "LabAsincronia1\\Program.cs",
+              "ToolTip": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo04\\LabAsincronia1\\Program.cs",
+              "RelativeToolTip": "LabAsincronia1\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:42:44.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
