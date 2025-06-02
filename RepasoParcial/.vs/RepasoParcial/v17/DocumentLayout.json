@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\LabsNET\\RepasoParcial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8227BBAA-62BB-40CC-B4FE-800600B643E7}|Ejercicio4\\Ejercicio4.csproj|c:\\users\\user\\desktop\\labsnet\\repasoparcial\\ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8227BBAA-62BB-40CC-B4FE-800600B643E7}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCCAE11D-89A3-4113-A430-1DCF447A5BAE}|Ejercicio10\\Ejercicio10.csproj|c:\\users\\user\\desktop\\labsnet\\repasoparcial\\ejercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCCAE11D-89A3-4113-A430-1DCF447A5BAE}|Ejercicio10\\Ejercicio10.csproj|solutionrelative:ejercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58162F52-5117-4CEE-9AF6-CEDA6A5049B5}|Ejercicio2\\Ejercicio2.csproj|c:\\users\\user\\desktop\\labsnet\\repasoparcial\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58162F52-5117-4CEE-9AF6-CEDA6A5049B5}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E2291E9-6CAC-4B73-8465-602DF7DD96F1}|Ejercicio9\\Ejercicio9.csproj|c:\\users\\user\\desktop\\labsnet\\repasoparcial\\ejercicio9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2291E9-6CAC-4B73-8465-602DF7DD96F1}|Ejercicio9\\Ejercicio9.csproj|solutionrelative:ejercicio9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,26 +28,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\RepasoParcial\\Ejercicio4\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio4\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\RepasoParcial\\Ejercicio4\\Program.cs",
-              "RelativeToolTip": "Ejercicio4\\Program.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\RepasoParcial\\Ejercicio10\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio10\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\RepasoParcial\\Ejercicio10\\Program.cs",
+              "RelativeToolTip": "Ejercicio10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T19:26:29.176Z",
+              "WhenOpened": "2025-06-02T18:16:20.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\RepasoParcial\\Ejercicio2\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio2\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\RepasoParcial\\Ejercicio2\\Program.cs",
-              "RelativeToolTip": "Ejercicio2\\Program.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAowEcAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\RepasoParcial\\Ejercicio9\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio9\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\RepasoParcial\\Ejercicio9\\Program.cs",
+              "RelativeToolTip": "Ejercicio9\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABkAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T19:23:22.128Z",
+              "WhenOpened": "2025-06-02T17:26:41.459Z",
               "EditorCaption": ""
             }
           ]
