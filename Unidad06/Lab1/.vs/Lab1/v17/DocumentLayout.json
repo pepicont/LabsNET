@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3583140C-70AE-46A5-9E82-79AC051B1283}|ASP.NET CORE EMPTY\\ASP.NET CORE EMPTY.csproj|c:\\users\\user\\desktop\\labsnet\\unidad06\\lab1\\asp.net core empty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3583140C-70AE-46A5-9E82-79AC051B1283}|ASP.NET CORE EMPTY\\ASP.NET CORE EMPTY.csproj|solutionrelative:asp.net core empty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BD3B671-78DE-467C-9CD6-0617EA1110F5}|Dominio\\Dominio.csproj|c:\\users\\user\\desktop\\labsnet\\unidad06\\lab1\\dominio\\dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5BD3B671-78DE-467C-9CD6-0617EA1110F5}|Dominio\\Dominio.csproj|solutionrelative:dominio\\dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36695381-FD35-4CA5-AB0A-C102EF301E3B}|Alumno\\Alumno.csproj|c:\\users\\user\\desktop\\labsnet\\unidad06\\lab1\\alumno\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36695381-FD35-4CA5-AB0A-C102EF301E3B}|Alumno\\Alumno.csproj|solutionrelative:alumno\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BD3B671-78DE-467C-9CD6-0617EA1110F5}|Dominio\\Dominio.csproj|c:\\users\\user\\desktop\\labsnet\\unidad06\\lab1\\dominio\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD3B671-78DE-467C-9CD6-0617EA1110F5}|Dominio\\Dominio.csproj|solutionrelative:dominio\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\ASP.NET CORE EMPTY\\Program.cs",
-              "RelativeDocumentMoniker": "ASP.NET CORE EMPTY\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\ASP.NET CORE EMPTY\\Program.cs",
-              "RelativeToolTip": "ASP.NET CORE EMPTY\\Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAAC8AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T17:50:27.715Z",
+              "Title": "Dominio",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Dominio\\Dominio.csproj",
+              "RelativeDocumentMoniker": "Dominio\\Dominio.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Dominio\\Dominio.csproj",
+              "RelativeToolTip": "Dominio\\Dominio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-14T16:42:10.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Alumno\\Class1.cs",
-              "RelativeDocumentMoniker": "Alumno\\Class1.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Alumno\\Class1.cs",
-              "RelativeToolTip": "Alumno\\Class1.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA1wA8AAAAAAAAAAAAAAA==",
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Dominio\\Alumno.cs",
+              "RelativeDocumentMoniker": "Dominio\\Alumno.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Dominio\\Alumno.cs",
+              "RelativeToolTip": "Dominio\\Alumno.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAsAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T17:40:35.776Z",
+              "WhenOpened": "2025-07-14T17:50:30.179Z",
               "EditorCaption": ""
             }
           ]

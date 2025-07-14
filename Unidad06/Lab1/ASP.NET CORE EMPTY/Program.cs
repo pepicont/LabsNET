@@ -1,33 +1,32 @@
 using System.Net.Quic;
 using System.Reflection.Metadata.Ecma335;
-using Alumno;
+using Dominio;
 using Microsoft.AspNetCore.Mvc.Filters;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 var app = builder.Build();
-
 app.UseSwagger();
 app.UseSwaggerUI();
 
 app.MapGet("/alumnos/{id}", (int id) =>
-    Alumno.Alumno.Lista.Find(a => a.Id == id) is Alumno.Alumno alumno
+    Dominio.Alumno.Lista.Find(a => a.Id == id) is Dominio.Alumno alumno
         ? Results.Ok(alumno)
         : Results.NotFound());
 
-app.MapPost("/alumnos", (Alumno.Alumno alumno) =>
+app.MapPost("/alumnos", (Dominio.Alumno alumno) =>
 {
-    Alumno.Alumno.Lista.Add(alumno);
+    Dominio.Alumno.Lista.Add(alumno);
     return Results.Created($"/alumnos/{alumno.Id}", alumno);
 });
 
 app.MapGet("/alumnos", () =>
-    Results.Ok(Alumno.Alumno.Lista));
+    Results.Ok(Dominio.Alumno.Lista));
 
-app.MapPut("/alumnos", (Alumno.Alumno alumno) =>
+app.MapPut("/alumnos", (Dominio.Alumno alumno) =>
 {
-    var al = Alumno.Alumno.Lista.Find(a => a.Id == alumno.Id);
+    var al = Dominio.Alumno.Lista.Find(a => a.Id == alumno.Id);
     if (al is null)
         return Results.NotFound();
     al.nombre = alumno.nombre;
@@ -39,12 +38,12 @@ app.MapPut("/alumnos", (Alumno.Alumno alumno) =>
 
 app.MapDelete("/alumnos/{id}", (int id) =>
 {
-    var al = Alumno.Alumno.Lista.Find(a => a.Id == id);
+    var al = Dominio.Alumno.Lista.Find(a => a.Id == id);
     if (al is null)
         return Results.NotFound();
     else
     { 
-        Alumno.Alumno.Lista.Remove(al);
+        Dominio.Alumno.Lista.Remove(al);
         return Results.Ok(al);
     }
 });

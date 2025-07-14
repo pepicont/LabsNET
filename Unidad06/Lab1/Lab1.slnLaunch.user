@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Ambos(Http)",
+    "Projects": [
+      {
+        "Path": "ASP.NET CORE EMPTY\\ASP.NET CORE EMPTY.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "Consola\\Consola.csproj",
+        "Action": "Start",
+        "DebugTarget": "Consola"
+      }
+    ]
+  },
+  {
+    "Name": "PuertoyForm",
+    "Projects": [
+      {
+        "Path": "ASP.NET CORE EMPTY\\ASP.NET CORE EMPTY.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "Forms\\Forms.csproj",
+        "Action": "Start",
+        "DebugTarget": "Forms"
+      }
+    ]
+  }
+]

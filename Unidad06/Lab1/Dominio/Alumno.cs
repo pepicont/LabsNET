@@ -1,4 +1,5 @@
-﻿namespace Alumno
+﻿namespace Dominio
+
 {
     public class Alumno
     {
@@ -8,12 +9,8 @@
         public int legajo { get; set; }
         public string direccion { get; set; }
 
-        public static readonly List<Alumno> Lista = new()
-   {
-       new Alumno { Id = 1, nombre = "Juan", apellido = "Pérez" },
-       new Alumno { Id = 2, nombre = "Ana", apellido = "García" }
-   };
-
+        public static readonly List<Alumno> Lista = new();
+  
 
     }
 }
