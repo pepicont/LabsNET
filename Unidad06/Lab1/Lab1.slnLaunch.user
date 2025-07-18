@@ -23,9 +23,9 @@
         "DebugTarget": "http"
       },
       {
-        "Path": "Forms\\Forms.csproj",
+        "Path": "Form1\\Form1.csproj",
         "Action": "Start",
-        "DebugTarget": "Forms"
+        "DebugTarget": "Form1"
       }
     ]
   }
