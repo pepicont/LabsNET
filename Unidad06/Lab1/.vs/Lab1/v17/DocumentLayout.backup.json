@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|c:\\users\\user\\desktop\\labsnet\\unidad06\\lab1\\form1\\formdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|solutionrelative:form1\\formdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|c:\\users\\user\\desktop\\labsnet\\unidad06\\lab1\\form1\\formput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|solutionrelative:form1\\formput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|c:\\users\\user\\desktop\\labsnet\\unidad06\\lab1\\form1\\formput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\form1\\formput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|solutionrelative:form1\\formput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,40 +19,20 @@
       "RelativeMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|solutionrelative:form1\\formpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|c:\\users\\user\\desktop\\labsnet\\unidad06\\lab1\\form1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|solutionrelative:form1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|c:\\users\\user\\desktop\\labsnet\\unidad06\\lab1\\form1\\formput.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|solutionrelative:form1\\formput.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|c:\\users\\user\\desktop\\labsnet\\unidad06\\lab1\\form1\\formget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|solutionrelative:form1\\formget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|c:\\users\\user\\desktop\\labsnet\\unidad06\\lab1\\form1\\formget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\form1\\formget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|solutionrelative:form1\\formget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|c:\\users\\user\\desktop\\labsnet\\unidad06\\lab1\\form1\\formpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|solutionrelative:form1\\formpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|c:\\users\\user\\desktop\\labsnet\\unidad06\\lab1\\form1\\formdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|solutionrelative:form1\\formdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|c:\\users\\user\\desktop\\labsnet\\unidad06\\lab1\\form1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|solutionrelative:form1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|c:\\users\\user\\desktop\\labsnet\\unidad06\\lab1\\form1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\form1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|solutionrelative:form1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|c:\\users\\user\\desktop\\labsnet\\unidad06\\lab1\\form1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44244998-CEC9-49E6-A428-A064F6255979}|Form1\\Form1.csproj|solutionrelative:form1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,154 +51,99 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormPUT.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\FormPUT.cs",
-              "RelativeDocumentMoniker": "Form1\\FormPUT.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\FormPUT.cs",
-              "RelativeToolTip": "Form1\\FormPUT.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAkwEkAAAArAAAAAAAAAA==",
+              "Title": "FormDELETE.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\FormDELETE.cs",
+              "RelativeDocumentMoniker": "Form1\\FormDELETE.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\FormDELETE.cs",
+              "RelativeToolTip": "Form1\\FormDELETE.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T15:34:18.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FormGET.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\FormGET.cs",
-              "RelativeDocumentMoniker": "Form1\\FormGET.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\FormGET.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form1\\FormGET.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T14:47:46.768Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormGET.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\FormGET.cs",
-              "RelativeDocumentMoniker": "Form1\\FormGET.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\FormGET.cs",
-              "RelativeToolTip": "Form1\\FormGET.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T14:15:31.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\Program.cs",
-              "RelativeDocumentMoniker": "Form1\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\Program.cs",
-              "RelativeToolTip": "Form1\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBMAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T13:56:07.306Z",
+              "WhenOpened": "2025-07-31T01:27:46.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FormPUT.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\FormPUT.cs",
+              "RelativeDocumentMoniker": "Form1\\FormPUT.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\FormPUT.cs",
+              "RelativeToolTip": "Form1\\FormPUT.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwE8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T22:55:18.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FormPUT.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\FormPUT.cs",
               "RelativeDocumentMoniker": "Form1\\FormPUT.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\FormPUT.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1\\FormPUT.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T15:37:56.012Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-07-29T22:55:15.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormPUT.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\FormPUT.Designer.cs",
-              "RelativeDocumentMoniker": "Form1\\FormPUT.Designer.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\FormPUT.Designer.cs",
-              "RelativeToolTip": "Form1\\FormPUT.Designer.cs",
-              "ViewState": "AgIAANcAAAAAAAAAAAA0wNwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T15:39:09.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FormPOST.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\FormPOST.cs",
               "RelativeDocumentMoniker": "Form1\\FormPOST.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\FormPOST.cs",
               "RelativeToolTip": "Form1\\FormPOST.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAADQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwC8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T15:05:49.381Z",
+              "WhenOpened": "2025-07-29T22:31:19.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\Form1.cs",
+              "RelativeToolTip": "Form1\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T21:36:24.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "FormPOST.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\FormPOST.cs",
-              "RelativeDocumentMoniker": "Form1\\FormPOST.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\FormPOST.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form1\\FormPOST.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T13:21:57.467Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Form1\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\Form1.Designer.cs",
-              "RelativeToolTip": "Form1\\Form1.Designer.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T13:44:00.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1\\Form1.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T13:13:04.167Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-07-29T21:36:19.098Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1\\Form1.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\Form1.cs",
-              "RelativeToolTip": "Form1\\Form1.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "FormGET.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\FormGET.cs",
+              "RelativeDocumentMoniker": "Form1\\FormGET.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\FormGET.cs",
+              "RelativeToolTip": "Form1\\FormGET.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T13:49:49.144Z",
+              "WhenOpened": "2025-07-29T21:33:40.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FormDELETE.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\FormDELETE.cs",
-              "RelativeDocumentMoniker": "Form1\\FormDELETE.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\FormDELETE.cs",
-              "RelativeToolTip": "Form1\\FormDELETE.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAADwvygAAAANAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "FormGET.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\FormGET.cs",
+              "RelativeDocumentMoniker": "Form1\\FormGET.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad06\\Lab1\\Form1\\FormGET.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1\\FormGET.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T15:07:00.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T21:33:34.335Z"
             }
           ]
         }
