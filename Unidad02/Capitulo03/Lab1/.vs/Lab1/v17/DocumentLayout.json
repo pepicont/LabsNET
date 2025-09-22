@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo03\\Lab1\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad02\\Capitulo03\\Lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A41627B9-054C-4CE2-A66A-C8B72A46D61F}|App4\\App4.csproj|d:\\documentos\\facultad\\3ero\\materias\\.net\\labsnet\\unidad02\\capitulo03\\lab1\\app4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A41627B9-054C-4CE2-A66A-C8B72A46D61F}|App4\\App4.csproj|c:\\users\\user\\desktop\\labsnet\\unidad02\\capitulo03\\lab1\\app4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A41627B9-054C-4CE2-A66A-C8B72A46D61F}|App4\\App4.csproj|solutionrelative:app4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A41627B9-054C-4CE2-A66A-C8B72A46D61F}|App4\\App4.csproj|d:\\documentos\\facultad\\3ero\\materias\\.net\\labsnet\\unidad02\\capitulo03\\lab1\\app4\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A41627B9-054C-4CE2-A66A-C8B72A46D61F}|App4\\App4.csproj|c:\\users\\user\\desktop\\labsnet\\unidad02\\capitulo03\\lab1\\app4\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A41627B9-054C-4CE2-A66A-C8B72A46D61F}|App4\\App4.csproj|solutionrelative:app4\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32F50F22-CF65-4C9C-A99D-762C5234264B}|App3\\App3.csproj|d:\\documentos\\facultad\\3ero\\materias\\.net\\labsnet\\unidad02\\capitulo03\\lab1\\app3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32F50F22-CF65-4C9C-A99D-762C5234264B}|App3\\App3.csproj|c:\\users\\user\\desktop\\labsnet\\unidad02\\capitulo03\\lab1\\app3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32F50F22-CF65-4C9C-A99D-762C5234264B}|App3\\App3.csproj|solutionrelative:app3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,35 +32,33 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo03\\Lab1\\App3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad02\\Capitulo03\\Lab1\\App3\\Program.cs",
               "RelativeDocumentMoniker": "App3\\Program.cs",
-              "ToolTip": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo03\\Lab1\\App3\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad02\\Capitulo03\\Lab1\\App3\\Program.cs",
               "RelativeToolTip": "App3\\Program.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T23:51:17.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T23:51:17.106Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Empleado.cs",
-              "DocumentMoniker": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo03\\Lab1\\App4\\Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad02\\Capitulo03\\Lab1\\App4\\Empleado.cs",
               "RelativeDocumentMoniker": "App4\\Empleado.cs",
-              "ToolTip": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo03\\Lab1\\App4\\Empleado.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad02\\Capitulo03\\Lab1\\App4\\Empleado.cs",
               "RelativeToolTip": "App4\\Empleado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T23:30:31.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T23:30:31.097Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo03\\Lab1\\App4\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad02\\Capitulo03\\Lab1\\App4\\Program.cs",
               "RelativeDocumentMoniker": "App4\\Program.cs",
-              "ToolTip": "D:\\Documentos\\Facultad\\3ero\\Materias\\.NET\\LabsNET\\Unidad02\\Capitulo03\\Lab1\\App4\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad02\\Capitulo03\\Lab1\\App4\\Program.cs",
               "RelativeToolTip": "App4\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

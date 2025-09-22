@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad04\\lab1EF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9939303-3FBB-48CA-9EDA-E55CA6719FFF}|lab1EF\\lab1EF.csproj|c:\\users\\user\\desktop\\labsnet\\unidad04\\lab1ef\\lab1ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9939303-3FBB-48CA-9EDA-E55CA6719FFF}|lab1EF\\lab1EF.csproj|solutionrelative:lab1ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9803C159-39AD-4B74-B5C8-0A4154148C95}|Contexto\\Contexto.csproj|c:\\users\\user\\desktop\\labsnet\\unidad04\\lab1ef\\contexto\\universidadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9803C159-39AD-4B74-B5C8-0A4154148C95}|Contexto\\Contexto.csproj|solutionrelative:contexto\\universidadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{315103C8-4F4C-4A51-B7B3-F0EDE9841756}|Universidad\\Universidad.csproj|c:\\users\\user\\desktop\\labsnet\\unidad04\\lab1ef\\universidad\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{315103C8-4F4C-4A51-B7B3-F0EDE9841756}|Universidad\\Universidad.csproj|solutionrelative:universidad\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9803C159-39AD-4B74-B5C8-0A4154148C95}|Contexto\\Contexto.csproj|c:\\users\\user\\desktop\\labsnet\\unidad04\\lab1ef\\contexto\\universidadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9803C159-39AD-4B74-B5C8-0A4154148C95}|Contexto\\Contexto.csproj|solutionrelative:contexto\\universidadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9939303-3FBB-48CA-9EDA-E55CA6719FFF}|lab1EF\\lab1EF.csproj|c:\\users\\user\\desktop\\labsnet\\unidad04\\lab1ef\\lab1ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9939303-3FBB-48CA-9EDA-E55CA6719FFF}|lab1EF\\lab1EF.csproj|solutionrelative:lab1ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "UniversidadContext.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad04\\lab1EF\\Contexto\\UniversidadContext.cs",
               "RelativeDocumentMoniker": "Contexto\\UniversidadContext.cs",
@@ -38,7 +38,8 @@
               "RelativeToolTip": "Contexto\\UniversidadContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T17:18:08.236Z"
+              "WhenOpened": "2025-08-11T17:18:08.236Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -50,17 +51,18 @@
               "RelativeToolTip": "Universidad\\Alumno.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T17:12:36.899Z"
+              "WhenOpened": "2025-08-11T17:12:36.899Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad04\\lab1EF\\lab1EF\\Program.cs",
               "RelativeDocumentMoniker": "lab1EF\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\LabsNET\\Unidad04\\lab1EF\\lab1EF\\Program.cs",
               "RelativeToolTip": "lab1EF\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBcAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T17:09:03.165Z",
               "EditorCaption": ""
