@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61FCA216-A4C2-41AB-B362-B391F433D5FE}|AplicacionBlazzor\\AplicacionBlazzor.csproj|c:\\users\\stefa\\onedrive\\escritorio\\aplicacionblazzor\\aplicacionblazzor\\components\\pages\\alumnodetalle.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61FCA216-A4C2-41AB-B362-B391F433D5FE}|AplicacionBlazzor\\AplicacionBlazzor.csproj|solutionrelative:aplicacionblazzor\\components\\pages\\alumnodetalle.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FCA216-A4C2-41AB-B362-B391F433D5FE}|AplicacionBlazzor\\AplicacionBlazzor.csproj|c:\\users\\stefa\\onedrive\\escritorio\\aplicacionblazzor\\aplicacionblazzor\\components\\pages\\alumnos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61FCA216-A4C2-41AB-B362-B391F433D5FE}|AplicacionBlazzor\\AplicacionBlazzor.csproj|solutionrelative:aplicacionblazzor\\components\\pages\\alumnos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCE34D6-DAAB-4590-A943-C4FAEE08EE0F}|Clases\\Clases.csproj|c:\\users\\stefa\\onedrive\\escritorio\\aplicacionblazzor\\clases\\alumnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCE34D6-DAAB-4590-A943-C4FAEE08EE0F}|Clases\\Clases.csproj|solutionrelative:clases\\alumnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FCA216-A4C2-41AB-B362-B391F433D5FE}|AplicacionBlazzor\\AplicacionBlazzor.csproj|c:\\users\\stefa\\onedrive\\escritorio\\aplicacionblazzor\\aplicacionblazzor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61FCA216-A4C2-41AB-B362-B391F433D5FE}|AplicacionBlazzor\\AplicacionBlazzor.csproj|solutionrelative:aplicacionblazzor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FCA216-A4C2-41AB-B362-B391F433D5FE}|AplicacionBlazzor\\AplicacionBlazzor.csproj|c:\\users\\stefa\\onedrive\\escritorio\\aplicacionblazzor\\aplicacionblazzor\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61FCA216-A4C2-41AB-B362-B391F433D5FE}|AplicacionBlazzor\\AplicacionBlazzor.csproj|solutionrelative:aplicacionblazzor\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FCA216-A4C2-41AB-B362-B391F433D5FE}|AplicacionBlazzor\\AplicacionBlazzor.csproj|c:\\users\\stefa\\onedrive\\escritorio\\aplicacionblazzor\\aplicacionblazzor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61FCA216-A4C2-41AB-B362-B391F433D5FE}|AplicacionBlazzor\\AplicacionBlazzor.csproj|solutionrelative:aplicacionblazzor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FCA216-A4C2-41AB-B362-B391F433D5FE}|AplicacionBlazzor\\AplicacionBlazzor.csproj|c:\\users\\stefa\\onedrive\\escritorio\\aplicacionblazzor\\aplicacionblazzor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FCA216-A4C2-41AB-B362-B391F433D5FE}|AplicacionBlazzor\\AplicacionBlazzor.csproj|solutionrelative:aplicacionblazzor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FCA216-A4C2-41AB-B362-B391F433D5FE}|AplicacionBlazzor\\AplicacionBlazzor.csproj|c:\\users\\stefa\\onedrive\\escritorio\\aplicacionblazzor\\aplicacionblazzor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61FCA216-A4C2-41AB-B362-B391F433D5FE}|AplicacionBlazzor\\AplicacionBlazzor.csproj|solutionrelative:aplicacionblazzor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCE34D6-DAAB-4590-A943-C4FAEE08EE0F}|Clases\\Clases.csproj|c:\\users\\stefa\\onedrive\\escritorio\\aplicacionblazzor\\clases\\universidadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCE34D6-DAAB-4590-A943-C4FAEE08EE0F}|Clases\\Clases.csproj|solutionrelative:clases\\universidadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCE34D6-DAAB-4590-A943-C4FAEE08EE0F}|Clases\\Clases.csproj|c:\\users\\stefa\\onedrive\\escritorio\\aplicacionblazzor\\clases\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCE34D6-DAAB-4590-A943-C4FAEE08EE0F}|Clases\\Clases.csproj|solutionrelative:clases\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FCA216-A4C2-41AB-B362-B391F433D5FE}|AplicacionBlazzor\\AplicacionBlazzor.csproj|c:\\users\\stefa\\onedrive\\escritorio\\aplicacionblazzor\\aplicacionblazzor\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61FCA216-A4C2-41AB-B362-B391F433D5FE}|AplicacionBlazzor\\AplicacionBlazzor.csproj|solutionrelative:aplicacionblazzor\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FCA216-A4C2-41AB-B362-B391F433D5FE}|AplicacionBlazzor\\AplicacionBlazzor.csproj|c:\\users\\stefa\\onedrive\\escritorio\\aplicacionblazzor\\aplicacionblazzor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61FCA216-A4C2-41AB-B362-B391F433D5FE}|AplicacionBlazzor\\AplicacionBlazzor.csproj|solutionrelative:aplicacionblazzor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FCA216-A4C2-41AB-B362-B391F433D5FE}|AplicacionBlazzor\\AplicacionBlazzor.csproj|c:\\users\\stefa\\onedrive\\escritorio\\aplicacionblazzor\\aplicacionblazzor\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61FCA216-A4C2-41AB-B362-B391F433D5FE}|AplicacionBlazzor\\AplicacionBlazzor.csproj|solutionrelative:aplicacionblazzor\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FCA216-A4C2-41AB-B362-B391F433D5FE}|AplicacionBlazzor\\AplicacionBlazzor.csproj|c:\\users\\stefa\\onedrive\\escritorio\\aplicacionblazzor\\aplicacionblazzor\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61FCA216-A4C2-41AB-B362-B391F433D5FE}|AplicacionBlazzor\\AplicacionBlazzor.csproj|solutionrelative:aplicacionblazzor\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Alumnos.razor",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\AplicacionBlazzor\\Components\\Pages\\Alumnos.razor",
+              "RelativeDocumentMoniker": "AplicacionBlazzor\\Components\\Pages\\Alumnos.razor",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\AplicacionBlazzor\\Components\\Pages\\Alumnos.razor",
+              "RelativeToolTip": "AplicacionBlazzor\\Components\\Pages\\Alumnos.razor",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T19:49:40.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\AplicacionBlazzor\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "AplicacionBlazzor\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\AplicacionBlazzor\\Components\\Routes.razor",
+              "RelativeToolTip": "AplicacionBlazzor\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T19:37:55.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\AplicacionBlazzor\\Components\\App.razor",
+              "RelativeDocumentMoniker": "AplicacionBlazzor\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\AplicacionBlazzor\\Components\\App.razor",
+              "RelativeToolTip": "AplicacionBlazzor\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T19:37:28.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlumnoDetalle.razor",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\AplicacionBlazzor\\Components\\Pages\\AlumnoDetalle.razor",
+              "RelativeDocumentMoniker": "AplicacionBlazzor\\Components\\Pages\\AlumnoDetalle.razor",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\AplicacionBlazzor\\Components\\Pages\\AlumnoDetalle.razor",
+              "RelativeToolTip": "AplicacionBlazzor\\Components\\Pages\\AlumnoDetalle.razor",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAGQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T21:35:15.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlumnoService.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\Clases\\AlumnoService.cs",
+              "RelativeDocumentMoniker": "Clases\\AlumnoService.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\Clases\\AlumnoService.cs",
+              "RelativeToolTip": "Clases\\AlumnoService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:25:00.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\AplicacionBlazzor\\appsettings.json",
+              "RelativeDocumentMoniker": "AplicacionBlazzor\\appsettings.json",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\AplicacionBlazzor\\appsettings.json",
+              "RelativeToolTip": "AplicacionBlazzor\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-22T23:45:40.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\AplicacionBlazzor\\Program.cs",
+              "RelativeDocumentMoniker": "AplicacionBlazzor\\Program.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\AplicacionBlazzor\\Program.cs",
+              "RelativeToolTip": "AplicacionBlazzor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T19:15:18.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\AplicacionBlazzor\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "AplicacionBlazzor\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\AplicacionBlazzor\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "AplicacionBlazzor\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T19:18:37.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\Clases\\Alumno.cs",
+              "RelativeDocumentMoniker": "Clases\\Alumno.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\Clases\\Alumno.cs",
+              "RelativeToolTip": "Clases\\Alumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T19:59:09.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UniversidadContext.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\Clases\\UniversidadContext.cs",
+              "RelativeDocumentMoniker": "Clases\\UniversidadContext.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\Clases\\UniversidadContext.cs",
+              "RelativeToolTip": "Clases\\UniversidadContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T20:18:57.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\AplicacionBlazzor\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "AplicacionBlazzor\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\AplicacionBlazzor\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "AplicacionBlazzor\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T19:56:26.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\AplicacionBlazzor\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "AplicacionBlazzor\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\AplicacionBlazzor\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "AplicacionBlazzor\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T19:44:48.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\AplicacionBlazzor\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "AplicacionBlazzor\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\AplicacionBlazzor\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "AplicacionBlazzor\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T19:44:42.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\AplicacionBlazzor\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "AplicacionBlazzor\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Escritorio\\AplicacionBlazzor\\AplicacionBlazzor\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "AplicacionBlazzor\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T19:21:49.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

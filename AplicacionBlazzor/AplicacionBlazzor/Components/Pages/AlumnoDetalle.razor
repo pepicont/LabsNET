@@ -1,0 +1,126 @@
+﻿@page "/alumnos/nuevo"
+@page "/alumnos/{alumnoId:int}"
+@rendermode InteractiveServer
+@using Clases
+@inject NavigationManager Navigation
+
+<h3>@(isEdit ? "Editar Alumno" : "Nuevo Alumno")</h3>
+
+<EditForm Model="@alumnoDetalle" OnValidSubmit="HandleValidSubmit" FormName="AlumnoDetalleForm">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="mb-3">
+        <label class="form-label">Nombre</label>
+        <InputText class="form-control" @bind-Value="alumnoDetalle.Nombre" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Apellido</label>
+        <InputText class="form-control" @bind-Value="alumnoDetalle.Apellido" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Legajo</label>
+        <InputText class="form-control" @bind-Value="alumnoDetalle.Legajo" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Dirección</label>
+        <InputText class="form-control" @bind-Value="alumnoDetalle.Direccion" />
+    </div>
+
+    <div class="mb-3">
+        <button class="btn btn-primary" type="submit">Guardar</button>
+        <button class="btn btn-secondary" type="button" @onclick="Cancelar">Cancelar</button>
+    </div>
+
+    @if (!string.IsNullOrEmpty(message))
+    {
+        <div class="alert @messageClass">@message</div>
+    }
+</EditForm>
+
+@code {
+    [Parameter]
+    public int? alumnoId { get; set; }
+
+    [SupplyParameterFromForm]
+    private Alumno alumnoDetalle { get; set; } = new();
+
+    private bool isEdit => alumnoId.HasValue && alumnoId.Value != 0;
+    private string message = string.Empty;
+    private string messageClass = "alert-success";
+
+    protected override async Task OnInitializedAsync()
+    {
+        if (isEdit && alumnoId.HasValue)
+        {
+            AlumnoService servicio = new AlumnoService();
+            Alumno? alumno = servicio.GetOne(alumnoId.Value);
+            if (alumno != null)
+            {
+                alumnoDetalle = alumno;
+            }
+            else
+            {
+                message = "Alumno no encontrado.";
+                messageClass = "alert-warning";
+            }
+        }
+    }
+
+    private async Task HandleValidSubmit()
+    {
+        if (string.IsNullOrWhiteSpace(alumnoDetalle.Nombre) || string.IsNullOrWhiteSpace(alumnoDetalle.Apellido))
+        {
+            message = "Nombre y Apellido son obligatorios.";
+            messageClass = "alert-danger";
+            return;
+        }
+
+        try
+        {
+            AlumnoService servicio = new AlumnoService();
+
+            if (isEdit)
+            {
+                Console.WriteLine($"Sending to Update -> Id={alumnoDetalle.Id}, Nombre=\"{alumnoDetalle.Nombre}\", Apellido=\"{alumnoDetalle.Apellido}\", Legajo=\"{alumnoDetalle.Legajo}\", Direccion=\"{alumnoDetalle.Direccion}\"");
+                var success = servicio.Update(alumnoDetalle);
+                if (!success)
+                {
+                    message = "No se pudieron guardar los cambios en la base de datos.";
+                    messageClass = "alert-danger";
+                    return;
+                }
+            }
+            else
+            {
+                Console.WriteLine($"Creating new Alumno -> Nombre=\"{alumnoDetalle.Nombre}\", Apellido=\"{alumnoDetalle.Apellido}\", Legajo=\"{alumnoDetalle.Legajo}\", Direccion=\"{alumnoDetalle.Direccion}\"");
+                var success = servicio.Create(alumnoDetalle);
+                if (!success)
+                {
+                    message = "No se pudo crear el alumno en la base de datos.";
+                    messageClass = "alert-danger";
+                    return;
+                }
+            }
+
+            message = "Alumno guardado correctamente.";
+            messageClass = "alert-success";
+            await Task.Delay(700);
+            Navigation.NavigateTo("/alumnos");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.ToString());
+            message = $"Error al guardar: {ex.Message}";
+            messageClass = "alert-danger";
+        }
+    }
+
+    private void Cancelar()
+    {
+        Navigation.NavigateTo("/alumnos");
+    }
+}

@@ -1,0 +1,47 @@
+﻿@page "/alumnos"
+@rendermode InteractiveServer
+@using Clases
+@inject NavigationManager Navigation
+
+<PageTitle>Alumnos</PageTitle>
+
+<h3>Alumnos</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Legajo</th>
+            <th>Dirección</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (alumnos != null)
+        {
+            @foreach (var alumno in alumnos)
+            {
+                <tr>
+                    <td>@alumno.Nombre</td>
+                    <td>@alumno.Apellido</td>
+                    <td>@alumno.Legajo</td>
+                    <td>@alumno.Direccion</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+<button class="btn btn-primary" type="button" @onclick="CargarNuevoAlumno">Cargar nuevo alumno</button> 
+
+@code {
+    private List<Alumno>? alumnos = new List<Alumno>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        await Task.Delay(500);
+        AlumnoService servicio = new AlumnoService();
+        alumnos = servicio.GetAll();
+    }
+
+    private void CargarNuevoAlumno() => Navigation.NavigateTo("/alumnos/nuevo");
+}
